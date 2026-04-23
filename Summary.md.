@@ -1,0 +1,9 @@
+# Literature Summary - Task 28
+
+## Research Title: 
+Identification of Encrypted Network Protocols using Machine Learning.
+
+## Summary:
+This research explores the classification of encrypted network traffic flows into specific protocols (like HTTP, DNS, and VoIP). By using the **ISCX VPN-nonVPN dataset**, the study applies the **Random Forest** algorithm to analyze features such as packet size and time intervals. 
+
+The findings show that machine learning models can achieve an accuracy higher than **92%** and an F1-score above **0.88**. This proves that protocol fingerprinting is effective for enhancing network security in aviation without the need for data decryption.

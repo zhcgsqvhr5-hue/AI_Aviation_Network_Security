@@ -1,0 +1,17 @@
+# Network Traffic Protocol Fingerprinting (Task 28)
+
+## 1. Project Overview
+This project focuses on identifying network protocols (like DNS, HTTP, VoIP) using Machine Learning, specifically for securing aviation communication.
+
+## 2. Dataset
+- **Name:** ISCX VPN-nonVPN Dataset.
+- **Source:** University of New Brunswick (UNB).
+
+## 3. Technology Stack
+- **Language:** Python.
+- **Environment:** Google Colab / Jupyter Notebook.
+- **Algorithms:** Random Forest / XGBoost.
+
+## 4. Evaluation Metrics (Results)
+- **Target Accuracy:** > 92%
+- **Macro F1-score:** > 0.88
